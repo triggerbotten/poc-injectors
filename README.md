@@ -3,12 +3,6 @@
   <i>My Educational injector implementations written in C#, C++, and Java</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/triggerbotten/multi-injector?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/triggerbotten/multi-injector?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/triggerbotten/multi-injector?style=flat-square" />
-</p>
-
 ---
 
 ## Overview
